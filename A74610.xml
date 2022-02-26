@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The truest intelligence from the province of Munster, in the kingdome of Ireland extracted out of severall letters of very serious importance lately sent from Mr. Tristam Whitcombe soveraigne of Kinsale, and divers other worthy gentlemen of good repute, ranke and quality : newly written, published and really averred by one Mr. I. P. who was sometime a minister amongst them, having lately escaped from thence, and sustained great losses by the insolency of those bold, bloody and barbarous rebels : wherein is contained the miraculous mercies of Almighty God towards the Protestants of that kingdome in generall, and to that province in speciall : manifested by the cutting off of above 2000 of the rebels by 900 of our forces, and the late surprisall of many more of them by policie at sea.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74610</idno>
+            <idno type="STC">Thomason E109_16</idno>
+            <idno type="STC">ESTC R6433</idno>
+            <idno type="EEBO-CITATION">12271925</idno>
+            <idno type="OCLC">ocm 12271925</idno>
+            <idno type="VID">155995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The truest intelligence from the province of Munster, in the kingdome of Ireland extracted out of severall letters of very serious importance lately sent from Mr. Tristam Whitcombe soveraigne of Kinsale, and divers other worthy gentlemen of good repute, ranke and quality : newly written, published and really averred by one Mr. I. P. who was sometime a minister amongst them, having lately escaped from thence, and sustained great losses by the insolency of those bold, bloody and barbarous rebels : wherein is contained the miraculous mercies of Almighty God towards the Protestants of that kingdome in generall, and to that province in speciall : manifested by the cutting off of above 2000 of the rebels by 900 of our forces, and the late surprisall of many more of them by policie at sea.</title>
+                  <author>I. P.</author>
+                  <author>Whetcombe, Tristram.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond, and Math. Rhodes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of originals in the Thomason Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Sources.</term>
+               <term>Munster (Ireland) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155995:1"/>
+            <pb facs="tcp:155995:1" rendition="simple:additions"/>
+            <p>THE Truest Intelligence from the Province of Munſter, in the Kingdome of IRELAND. EXTRACTED Out of ſeverall Letters of very ſerious importance lately ſent from Mr. <hi>Triſtram Whitcombe</hi> Soveraigne of <hi>Kinſale,</hi> and divers other worthy Gentlemen of good repute, ranke and quality. NEWLY Written, publiſhed and really averred by one Mr. <hi>I. P.</hi> who was ſomtime a Miniſter amongſt them, having lately eſcaped from thence, and ſuſtained great loſſes by the inſolency of thoſe bold, bloody and barbarous <hi>Rebels.</hi> Wherein is contained The miraculous mercies of Almighty <hi>GOD</hi> towards the <hi>Protestants</hi> of that
+<hi>Kingdome</hi> in generall, and to that <hi>Province</hi> in ſpeciall; manifeſted by the cutting off of above 2000. of the <hi>Rebels</hi> by 900. of our <hi>Forces,</hi> and the late ſurpriſall of many more of them by Policie at <hi>Sea.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>John Hammond,</hi> and <hi>Math: Rhodes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:155995:2"/>
+            <pb n="1" facs="tcp:155995:2"/>
+            <head>The truest INTELLIGENCE FROM IRELAND:</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>RELAND,</hi> for this preſent laſt <hi>Yeare,</hi> hath beene the bloody Stage whereon the horrid and never the like heard of Trage<g ref="char:EOLhyphen"/>dies have been really to the life (or rather to the death) acted.</p>
+            <p>The Romiſh <hi>Rebels</hi> have beene ſo im<g ref="char:EOLhyphen"/>pious in their crueltie, and ſo cruell in their immanitie, that they have not ſpar'd Men, Women nor Children: the very Turkes and Mahu<g ref="char:EOLhyphen"/>metans were never ſo ſanguinean as thoſe Tygers have beene. They haue raviſhed Matrons, vitiated Wives, deſtoured Vir<g ref="char:EOLhyphen"/>gins, fired Cities, and (which was the ground of all their in<g ref="char:EOLhyphen"/>ſolencies) they are damnablly periur'd; as having falſified their Oathes both to God and man. Their Attempts, Plots, and Conſpiracies have beene ſo hainous and facinorous, that my tongue is not able to relate them, much leſſe my Pen to
+<pb n="2" facs="tcp:155995:3"/>expreſſe them; (yet I hope by Gods aſſiſtance they will bee ere long written in their owne blood.)</p>
+            <q>
+               <l>
+                  <hi>Quis talia fande</hi>
+               </l>
+               <l>
+                  <hi>Temperet à lachrimis?</hi>
+               </l>
+            </q>
+            <q>
+               <l>Who now ſorbeares</l>
+               <l>Relating ſuch things to ſhed briniſh teares.</l>
+            </q>
+            <p>What hideous and moſt barbarous Maſſacres, they have perpetrated and committed contrary to the Rules of Religion to God, loyalty to the King, and charity to their neighbours, the Hiſtory of theſe times doth ſufficiently teſtifie.</p>
+            <q>
+               <l>
+                  <hi>Audax omnia perpeti</hi>
+               </l>
+               <l>
+                  <hi>Geas,</hi> Hyberne, <hi>ruit per vetitum nefas.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Bold <hi>Ireland</hi> ruſhes on</l>
+               <l>To act all miſchiefe ſhe leaves none undone.</l>
+            </q>
+            <p>But to come to the Subiect matter of this enſuing It pleaſed Almighty God on the 10th. day of <hi>Iuly</hi> laſt month that the Forees lately ſent out of <hi>England</hi> under the Com<g ref="char:EOLhyphen"/>mand of the Lord <hi>Forbes</hi> were ſafely arrived at the Towne of <hi>Kinſale;</hi> in the County of <hi>Corke,</hi> and Province of <hi>Munſter;</hi> ſeven hundred of them, and a hundred Sea-men forthwith marched with ſome Conducters of the ſaid, Towne towards the famous Towne of <hi>Bandonbridge,</hi> with a reliefe ſent by the Honourable Houſes of
+<hi>Parliament</hi> of Armes for 500. Men, 50. Bartels of Powder for <hi>Bandon,</hi> and hundred and fifty pounds in money for the poore of the ſaid Towne, which the aforeſaid Forces did faithfully and happily deliver, accor<g ref="char:EOLhyphen"/>ding to the Order of the Honourable Court of
+<hi>Parliament:</hi> and having further inſtructions for the relieving of <hi>Raph<g ref="char:EOLhyphen"/>barry</hi> Caſtle neere <hi>Reſſe</hi> in the ſaid Countie, about ten miles from the aforeſaid Towne, they marched from <hi>Bandon</hi> with neere about a hundred horſe and foot of the Towne Souldiers, together with their owne eight hundred; in which march,
+<pb n="3" facs="tcp:155995:3"/>they met with a booty of 500. <hi>Cowes</hi> and abundance of <hi>Sheep;</hi> for the guarding of which, they left behind them 300. Men, who upon the departure of the <hi>major</hi> part of the ſaid men, ad<g ref="char:EOLhyphen"/>vaincing towards <hi>Raph-barry</hi> Caſtle for the reliefe thereof; were ſet upon by <hi>Mecharty Reach, Tiego O downy</hi> and other <hi>Arch-Rebels</hi> of thoſe parts of <hi>Munſter,</hi> who were in number about 5000. lying cloſe in by-nookes and corners, untill the greater part of our Forces were cut of fight and hearing of playing off the Enemies Muſquets) who tell ſo hot upon our 300. Men, having the advantage of above ten to one againſt them, that they much endangered the lives of the 300. Men.</p>
+            <p>But that GOD that ſhews himſelfe moſt gracious when his Servants are moſt neceſſitated, was pleaſed to put ſuch cou<g ref="char:EOLhyphen"/>rage and Power into the hearts and hands of our
+<hi>Engliſh,</hi> that they held our ſo ſtoutly, that with the loſſe of Captaine
+<hi>Wel<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Company, (ſave onely the Leivten<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t, and thirty men of <hi>Bandon-bridge</hi> ſouldiers, they cut off the Enemy above five hundred, and continued the fight
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ill the remainder of the forces which went up to releive <hi>Raph-barry</hi> Caſtle were re<g ref="char:EOLhyphen"/>turned unto them. Then recovering new ſpirits, the ſurviving Souldiers fell on the Enemy ſo eagerly and und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edly with the aſſiſtance of their fellow-forces, that they ſlow at the leaſt twelve hundred: For having ſurrounded and encompaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them the Enemies could hardly betake themſelves to their heels, as they uſually doe and have formerly done, after the firſt or ſe<g ref="char:EOLhyphen"/>cond ſhot (unleſſe they ſhould expoſe themſelves to the mer<g ref="char:EOLhyphen"/>cy of the water ſomwhat neere the place of their ſight as they intended for the recovering of a certaine <hi>Iſland</hi> to av<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yd the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ury of our Forces) Many of the Rebels were conſtrained af<g ref="char:EOLhyphen"/>ter the violent and revengfull purſuit of our Army to truſt to the courteſie of the meecileſſe waters wherein there could not be leſſe then five hundred ſwallowed and overwhelmed (like
+<pb n="4" facs="tcp:155995:4"/>proud <hi>Pharoah</hi> and his hoaſts) in an ingurgitative neck of that none ſparing Ocean.</p>
+            <p>Thus by this true Relation you may evidently perceive Gods great mercy to his ſervants, and his iuſt lugment towards his, and their Enemyes; of which we ought all to take ſpeciall no<g ref="char:EOLhyphen"/>tice, and to render him due thankes, to whom the honour be<g ref="char:EOLhyphen"/>longs; ſaying as that renowned and victorious King <hi>Henry</hi> the fiſt ſometimes ſaid at his triumph after his Battaile at
+<hi>A<g ref="char:EOLhyphen"/>gincourt</hi> over the French, who were more then ten to one a<g ref="char:EOLhyphen"/>gainſt him, commanding all his Soldirs to acknowledge up<g ref="char:EOLhyphen"/>on their knees thoſe words of the <hi>Pſalmiſt, Non no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Domine non uobis, ſed nomini tuo da gloriam;</hi> Not unto us Lord, not unto us; but unto thy Name give the glory.</p>
+         </div>
+         <div type="part">
+            <head>Another remarkable Paſſage concerning the happy Proceedings of our laſt Forces by
+<hi>SEA,</hi> as followeth.</head>
+            <p>ONe of our Ships lately ſent forth to the Coaſts of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> ventured upon this enſuing Stratagem into the harbour of <hi>Baltemore.</hi> They put up the <hi>Dunkirkers</hi> Colours, as if they had come with Ammunition and Armes for the <hi>Rebels;</hi> which the
+<hi>Rebels</hi> being very proud of and confident that they were (as our men pretended to be) both by their Coulers, and the Iriſh-language which ſome of them ſpake, were drawne on Ship-board, in particular <hi>Durmod Glack, Florence Macharty, Arch-Rebels</hi> with divers other the princi<g ref="char:EOLhyphen"/>pall of which they ſaved alive, the other they hanged vp pre<g ref="char:EOLhyphen"/>ſently.</p>
+            <p>
+               <pb n="5" facs="tcp:155995:4"/> Thus we ſee that by the divine providence, our policy and weake meanes doe proſper to the aſtoniſhment and deſtructi<g ref="char:EOLhyphen"/>on of our Enemies, and to the perpetuall exultation and ob<g ref="char:EOLhyphen"/>ligation of all true Proteſtants; who ought not for all this to tempt GOD by neglecting meanes in due time of ſending over ſufficient Ammunition, mony and men to ſucour our diſtreſſed friends in <hi>Ireland,</hi> and ſuppreſſe their Enemies who (with GODS bleſſing on theſe meane<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) may be quickly extirpated, or reduced to their obedience to the Crowne of <hi>England.</hi>
+            </p>
+            <div type="subpart">
+               <head>The Authors Animadverſion and Concluſion.</head>
+               <p>MY humble A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce is, <hi>Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> melior<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> jud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cto;</hi> That <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> there muſt needs be fighting at home (which God in his infinite merey<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vert) that we would ſhot the Dore, which is the Kingdome of Ire<g ref="char:EOLhyphen"/>land inſtanced after the old <hi>Prover<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <q>
+                  <l>Hee that will for <hi>England</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>Muſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in <hi>Jreland</hi> firſt ground hope.</l>
+               </q>
+               <p>Leſt fighting amongſt our ſelves the Dore being open, the J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh or ſome forraigne Enemy, or both invade and ſubvert us. For the pre<g ref="char:EOLhyphen"/>venting whereof, it is neceſſary to ſend with all expedition (for,
+<q>
+                     <l>
+                        <hi>I<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>te
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> poſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſt occaſio calva.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>Occaſions lock is juſt before,</l>
+                     <l>Which being paſt gives no hold more)</l>
+                  </q>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>derible Army of faithfull reſolute Souldiers, very well accou<g ref="char:EOLhyphen"/>tred and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovided and no loſſe experienced in thoſe parts whither they are ſent to recover the Corne and Cattle into our Forces hands for their Winter ſupport, and to make impregnable Fortifications upon the ſeverall harbours of that Kingdome where there are none, before the raging <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and tempeſtuous ſtormes of that frigid Santon appeare, when Ships cannot play upon that dangerous Coaſt, to prevent a future ſupply from theſe <hi>Rebels</hi> Adherents, and then (by the helpe of the Lord of Hoſts whoſe Spirit will ſet up his Standard againſt his and their Enemies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the malice and might of the Di<g ref="char:EOLhyphen"/>vell
+<pb n="6" facs="tcp:155995:5"/>the Pope and all their curſed complices, and maintaine this owne cauſe) VVee neede not doubt of a ſpeedy and happy Conqueſt of that rebellious and Unfortunate Kingdome. But happly it will be obiected that Englands neceſsity cals for charity firſt at home. To this I anſwer, Firſt by the Rule of <hi>Piety</hi> the way to gaine a pacification with God and then with the King and ſo peace among our ſelves, is by Repen<g ref="char:EOLhyphen"/>tance, Faſting, Prayer, and the practiſe of Mercy in releaſing the op<g ref="char:EOLhyphen"/>preſsed in re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eving the diſtreſsed, <hi>Jſay</hi>
+58. from the 6th. verſe to to the end. Secondly by the Rule of <hi>Policie, trading now being de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> and the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> part of this Kingdome living upon manuall labour, it is more then probable that (wanting imployment heere to maintaine themſelves and their great charge, as many of them undergoe, they will take unlawfull wayes of ſubſiſting, and ſo endanger the Kingdom; and therefore may well be ſpared hence, and bee better maintained in the opportune regaining of <hi>Ireland,</hi> which is the preſerving of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> then ſuffered to be their owne carvers here it diſtractions con<g ref="char:EOLhyphen"/>tinue, (which God forbid) to the hazard of this Kingdome, Thirdly, the Men that are or ſhall be ſent over with expedition into Jreland (the now miſerable ſeat of warre) they being a conſiderable ſtrength, will be able to effect the Conqueſt ſooner and at much leſs charge to to this Kingdome then otherwiſe; and upon occaſion of foriaigne In<g ref="char:EOLhyphen"/>vaſion which we may juſtly ſcare, the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urke, having got all that he hath in Europe by Civill Diſsentions and differences betweene the Chriſtian <hi>Princes,</hi> the men ſent over into Jreland (being trained up in the Schoole of warre, and fleſht with the blood of their enemies) ſhall by their skill, courage and experience doe twice ſo much bene<g ref="char:EOLhyphen"/>ficiall Service as raw unexperienc'd and freſh-water Soldiers: ſo that the preſent rending over of a conſiderable number of men well ap<g ref="char:EOLhyphen"/>pointed for Jreland, can be no prejudice, but rather an extraord <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> advantage to this Kingdome.</p>
+            </div>
+            <div type="license">
+               <p>Ordered, that this be printed and publiſhed.</p>
+               <closer>
+                  <signed>Iohn Browne, <hi>Cler. Parl. D. Covs.</hi>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
